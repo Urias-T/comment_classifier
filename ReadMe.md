@@ -23,4 +23,4 @@ as a base model.
 
 **Result:** The model attained an accuracy of **92.97%** after 5 epochs of training.
 
-**Deployment:** Finally the model was deployed as an API endpoint using FastAPI.
+**Deployment:** Finally the model was deployed as an API endpoint using FastAPI. 
